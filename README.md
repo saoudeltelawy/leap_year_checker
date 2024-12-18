@@ -33,4 +33,11 @@ This Python script determines whether a given year is a leap year according to t
     python leap_year_checker.py 2024
     ```
 
-## Example Output
+## Example Output:
+
+**Example 1: Leap Year**
+
+```bash
+python leap_year_checker.py 2024
+
+2024 is a leap year
